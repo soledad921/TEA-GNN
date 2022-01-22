@@ -40,3 +40,24 @@ Please refer to the hyperparamters listed in the paper for reproducing the repor
 
 ## License
 TEA-GNN is CC-BY-NC licensed, as found in the LICENSE file.
+
+## Acknowledgement
+We refer to the code of RREA. Thanks for their great contributions!
+
+## Citation
+If you use the codes, please cite the following paper:
+
+        @inproceedings{TEAGNN,
+            title = "Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs",
+            author = "Xu, Chengjin  and
+              Su, Fenglong  and
+              Lehmann, Jens",
+            booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+            month = nov,
+            year = "2021",
+            address = "Online and Punta Cana, Dominican Republic",
+            publisher = "Association for Computational Linguistics",
+            url = "https://aclanthology.org/2021.emnlp-main.709",
+            doi = "10.18653/v1/2021.emnlp-main.709",
+            pages = "8999--9010",
+        }
