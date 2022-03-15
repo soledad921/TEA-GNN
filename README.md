@@ -1,4 +1,4 @@
-#  [Time-aware Graph Neural Network for Entity Alignment betweenTemporal Knowledge Graphs](https://aclanthology.org/2021.emnlp-main.709.pdf)
+#  [Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs](https://aclanthology.org/2021.emnlp-main.709.pdf)
 
 
 ## Enviroment
